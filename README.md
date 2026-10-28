@@ -22,6 +22,7 @@
 name:        Abhay
 role:        Software Engineer
 experience:  3+ years
+education:   B.Tech, IIT Patna
 focus:       Backend services, APIs, distributed systems, scalable architecture
 cloud:       AWS Certified Solutions Architect – Associate
 mindset:     Ship reliable, production-grade code. Debug deep. Own the outcome.
@@ -33,6 +34,7 @@ here_for:    Open source · Community · Hackathons · Side projects
 - 🧩 I enjoy **system design**, clean architecture, and squeezing latency out of data pipelines.
 - 🤖 I use AI-assisted tooling to move faster on debugging, reviews, and delivery.
 - 🏆 Competitive programming background — 500+ problems solved, and I still love a good hackathon.
+- 🎓 **B.Tech from IIT Patna** (Indian Institute of Technology Patna).
 
 ---
 
